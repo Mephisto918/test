@@ -39,12 +39,12 @@ Think of a library.
     **The ontology is the entire system that organizes the library, making it easy to find information and understand how different books relate to each other.**
 
 ## **_Key Takeaway:_**
-    Ontologies are all about structure and relationships. They provide a formal way to represent knowledge, allowing AI systems to understand the world more like humans do – by understanding not just what things are, but how they're connected.
+Ontologies are all about structure and relationships. They provide a formal way to represent knowledge, allowing AI systems to understand the world more like humans do – by understanding not just what things are, but how they're connected.
 
 
 ## Conclusion
 
-    Knowledge representation provides structured ways for AI to process and utilize information effectively. Logical representation, semantic networks, frames, and ontologies each play a crucial role in building intelligent systems that understand and reason about the world.
+Knowledge representation provides structured ways for AI to process and utilize information effectively. Logical representation, semantic networks, frames, and ontologies each play a crucial role in building intelligent systems that understand and reason about the world.\
 
-    AI needs structured knowledge to think and make decisions. Logical representation, semantic networks, frames, and ontologies are essential tools that help intelligent systems understand and reason about the world in a meaningful way.
+AI needs structured knowledge to think and make decisions. Logical representation, semantic networks, frames, and ontologies are essential tools that help intelligent systems understand and reason about the world in a meaningful way.
 
