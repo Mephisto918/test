@@ -1,5 +1,42 @@
 # Rizal
 
+## Novels and Essay
+
+- <ins>**Noli Me Tangere** (Latin for 'Touch Me Not')</ins> - late 19th century
+- <ins>**Mga kababayang dalaga ng Malolos (English: To my countrymen, the young women of Malolos)**</ins> - February 22 1889
+- <ins>**Filipinas dentro de cien añios ('The Philippines a cencuty hence')**</ins> - September 1889 - January 1890
+- <ins>**Sobre la indolencia de los filipinos (On the Indolence of the Filipinos)**</ins> - in Madrid 1890
+- <ins>**Makamisa (After Mass)**</ins> - 1987
+
+- <ins>**El amor patrio**</ins> - 1882
+- <ins>**Toast to Juan Luna and Felix Hidalgo**</ins> - 1882 speech in Madrid
+- <ins>**Alin Mang Lahi (Whate'er the Race)**</ins> - Kundiman
+- <ins>**Como se gobierno las Filipinas (Governing the Philippine islands)**</ins> - 1889
+- <ins>**Memorias de un Gallo**</ins> - two-page unfinished satire
+
+## Poetry
+
+- <ins>**A la juvented filipina (To The Philippine Youth)**</ins> - 1879
+- <ins>**Himno al trabajo (Dalit sa Paggawa), (Hymn to Labor)**</ins> - January 1888
+- <ins>**Mi ultimo adios (My Last Farewell)**</ins> - December 30 1896
+
+- <ins>**Felicitacios**</ins> (1874 - 1875)
+- <ins>**El embarque (The Embaration)**</ins> (1975)
+- <ins>**Por la educacion recibe lustre la patria**</ins> (1876)
+- <ins>**Un recuerdo a mi pueblo**</ins> (1876)
+- <ins>**Al niño Jesus**</ins>(c. 1876)
+- <ins>**¡Me piden versos!**</ins>(1882)
+- <ins>**Canto de Maria Clara (from Noli Me Tangere)**</ins> (1887)
+- <ins>**Kundiman (disputed)**</ins> (1889)
+- <ins>**A mi musa (To My Muse)**</ins> (1890)
+- <ins>**El canto del viajero**</ins> (1892-1896)
+- <ins>**Mi retiro**</ins> (1895)
+- <ins>**Mi primera inspiracion (disputed)**</ins>
+
+## Plays
+
+- <ins>**El Consejo de los Dioses (The Council of the Gods)**</ins> - 1880 - 1883
+
 ## Novels and Essays
 
 ### Nole Me Tangere
